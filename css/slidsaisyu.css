@@ -1,0 +1,30 @@
+html {
+    background-color:rgba(84, 175, 217, 0.21);
+}
+body {
+    text-align : center;
+  }
+.syoukaibun {
+    font-size: 28px;
+    font-family: 'Zen Kurenaido', sans-serif;
+}
+.main img {
+    width : 50%;
+    vertical-align: middle;
+}
+.navi {
+    text-align: center;
+}
+button {
+    margin: 10px auto;
+    font-size: 32px;
+    font-family: 'Zen Kurenaido', sans-serif;
+    
+}
+.title {
+    font-size: 40px;
+    font-family: 'Kaisei Opti', serif;
+}
+.thumbnails .selected {
+    opacity: 1.0;
+}
